@@ -1,7 +1,7 @@
 # Cuenta-Wallet-Biweekly
 
 
-Flujo recomendado para ejecutar ambos Gems
+Flujo para ejecutar ambos Gems
 Paso 1 — Cargar la información
 ________________________________________________
 I am preparing the WXX Wallet (or DiDi Cuenta) CX Biweekly Executive Review.
